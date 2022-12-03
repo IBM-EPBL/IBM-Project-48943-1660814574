@@ -1,5 +1,5 @@
 
-image
+
   WEB PHISHING DETECTION
 😎IBM-project-48943-1660814574👏
 
@@ -19,7 +19,9 @@ Large organisations may get trapped in different kinds of trap.
 It will lead to information disclosure and property damage.
 Beneficiaries of this project:😎🚀
 
-1)common social people 2)Business man who transacts huge amount of money through online 3)property damage and personal information can be saved
+1)common social people
+2)Business man who transacts huge amount of money through online 
+3)property damage and personal information can be saved
 
 DOMAIN:💻📌
 ✓Machine learning ✓Data science ✓Data mining algorithm
