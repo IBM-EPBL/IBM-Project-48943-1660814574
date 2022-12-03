@@ -14,9 +14,10 @@ Phishing is a form of fraud in which an attacker masquerades as a reputable enti
 
 COMMON THREATS OF WEB PHISHING⭐
 
-Phishing scams may endup with identity theft,malware infections and data loss.
-Large organisations may get trapped in different kinds of trap.
-It will lead to information disclosure and property damage.
+1.Phishing scams may endup with identity theft,malware infections and data loss.
+2.Large organisations may get trapped in different kinds of trap.
+3.It will lead to information disclosure and property damage.
+
 Beneficiaries of this project:😎🚀
 
 1)common social people
