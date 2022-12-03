@@ -1,6 +1,6 @@
 
 image
-                                  WEB PHISHING DETECTION
+  WEB PHISHING DETECTION
 😎IBM-project-48943-1660814574👏
 
 ✨TEAM ID:PNT2022TMID42144✨
